@@ -1,4 +1,4 @@
-# 📈RGB.GG | 주식 전적 비교 분석 사이트
+# 📈 RGB.GG | 주식 전적 비교 분석 사이트
 ## 💡 [트렌드 코리아 2022] 10대 키워드를 활용한 투자 아이디어 제안 학술 대회 | 🏆대상
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&weight=500&section=header&text=RGB.GG&fontSize=80" />
 
