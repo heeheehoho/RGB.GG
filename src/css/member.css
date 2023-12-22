@@ -1,0 +1,19 @@
+
+.jisun ,.seungjae,.heeho,.seungwon{
+    width:220px;
+    border : 5px solid white;
+}
+
+.jisun-des{
+    font-size: 17px;
+    text-align: left;
+    padding-left : 70px;
+    margin-top:0px;
+}
+
+.mt{
+    width: 1200px;
+    margin-left: 6%;
+    margin-top: 3%;
+}
+

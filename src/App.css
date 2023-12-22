@@ -1,0 +1,122 @@
+
+#menubar{
+  font-size : 20px;
+  background-color: #8BD8BD;
+  }
+#menubar :hover
+{
+    color:white;
+}
+
+#menubar ul li{
+  display : inline-block;
+  list-style-type: none;
+  padding : 10px 15px;
+  }
+#menubar ul li a{
+      color: #00203F;
+      text-decoration : none;
+      text-align: center;
+      font-weight: bold;
+  } 
+
+
+.slogan{
+  width: 700px;
+  height:50px;
+  position: absolute;
+  top : 56%;
+  left:50%;
+  transform: translate(-50%,-50%);
+}
+.lo
+{
+  height: 560px;
+  position: absolute;
+  top : 49%;
+  left:49.5%;
+  transform: translate(-50%,-50%);
+}
+/*메인페이지 서칭바*/
+.search{
+  height: 55px;
+  width: 800px;
+  border: none;
+  border-radius:30px;
+  background-color: #ffffff;
+  position : absolute;
+  top:64%;
+  left:50%;
+  transform:translate(-50%,-50%);
+}
+/*랭킹페이지 서칭바 */
+.search-small{
+  height: 35px;
+  width: 500px;
+  border: none;
+  border-radius:30px;
+  background-color: #ffffff;
+  position : absolute;
+  top:16%;
+  left:51%;
+  transform:translate(-50%,-50%);
+}
+
+.input-1{
+  font-size : 20px;
+  border-radius:30px;
+  width: 300px;
+  padding: 13px;
+  margin-left:10px;
+  outline: none;
+  float: left; 
+  border:none;
+}
+.input-1-small{
+  font-size : 15.5px;
+  border-radius:30px;
+  width: 150px;
+  padding: 8.5px;
+  margin-left:10px;
+  outline: none;
+  float: left; 
+  border:none;
+}
+.input-2{
+  font-size : 15px;
+  border-radius:30px;
+  width: 300px;
+  padding-top: 10px;
+  margin-left:10px;
+  outline: none;
+  float: left; 
+  border:none;
+}
+
+.search-info{
+  height: 40px;
+  width: 600px;
+  border: none;
+  border-radius:30px;
+  background-color: #ffffff;
+  position : absolute;
+  top:20%;
+  left:50%;
+  transform:translate(-50%,-50%);
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

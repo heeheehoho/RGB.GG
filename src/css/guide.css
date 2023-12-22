@@ -1,0 +1,29 @@
+.guidetable{
+    color: antiquewhite;
+    width: 1500px;
+    margin-left : 150px;
+    margin-top : 70px;
+    color: black;
+}
+
+.guidetable{
+    text-align: left;
+    color: black;
+}
+
+.guidetable .gt .guidetitle{
+    font-weight: bold;
+    font-size:30px;
+    color: white;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.searchinghome, .ingoogle, .googlefinace,.rankkk{
+    width: 300px;
+}
+
+
+
+
+
